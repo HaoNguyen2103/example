@@ -5,6 +5,9 @@
         Console.WriteLine("Hay nhap 1 so tren ban phim ");
         int so = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("so do la" + " " + so);
+Console.WriteLine("Hay nhap 1 so tren ban phim ");
+        int so1 = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("so do la" + " " + so1);
 
     }
 }
